@@ -54,8 +54,11 @@
 <p>&nbsp;</p>
 
 
-  
-
+[twitter]: https://twitter.com/falmendro_
+[artstation]: https://www.artstation.com/fernandoalmendro
+[discord]: https://discord.com/users/FernaToty#0560
+[linkedin]: https://www.linkedin.com/in/gerard-martinez-garcia-04b1b2202/
+https://discord.com/users/Saturn002#6504
 
 <!--
 **GerardMartinez02/GerardMartinez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
