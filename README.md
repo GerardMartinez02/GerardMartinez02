@@ -7,6 +7,7 @@
 
 
 ## Contact me 📫
+[<img align="left" alt="gerardmartinez | Instagram" width="30px" src="https://img.icons8.com/color/344/instagram-new.png" />][instagram]
 [<img align="left" alt="gerardmartinez | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][discord]
 [<img align="left" alt="gerardmartinez | Linkedin" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
 
@@ -51,7 +52,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-
+[instagram]: https://www.instagram.com/_gerardmtz_/
 [discord]: https://discord.com/users/Saturn002#6504
 [linkedin]: https://www.linkedin.com/in/gerard-martinez-garcia-04b1b2202/
 
