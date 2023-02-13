@@ -52,7 +52,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-[instagram]: 
+[instagram]: https://www.instagram.com/_gerardmtz_/
 [discord]: https://discord.com/users/Saturn002#6504
 [linkedin]: https://www.linkedin.com/in/gerard-martinez-garcia-04b1b2202/
 
