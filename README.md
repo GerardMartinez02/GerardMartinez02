@@ -7,8 +7,6 @@
 
 
 ## Contact me 📫
-[<img align="left" alt="gerardmartinez | Twitter" width="30px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
-[<img align="left" alt="gerardmartinez | Artstation" width="30px" src="https://img.icons8.com/color/344/artstation.png" />][artstation]
 [<img align="left" alt="gerardmartinez | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][discord]
 [<img align="left" alt="gerardmartinez | Linkedin" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
 
