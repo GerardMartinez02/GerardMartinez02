@@ -55,10 +55,7 @@
 
 
   
-[twitter]: https://twitter.com/falmendro_
-[artstation]: https://www.artstation.com/fernandoalmendro
-[discord]: https://discord.com/users/FernaToty#0560
-[linkedin]: https://www.linkedin.com/in/fernando-almendro-martí-4a1302247/
+
 
 <!--
 **GerardMartinez02/GerardMartinez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
