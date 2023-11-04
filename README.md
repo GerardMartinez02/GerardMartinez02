@@ -39,6 +39,8 @@
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"/>
 
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/audacity.png"/>
+
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/autodesk-maya.png"/>
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/ff0000/48/ff0000/adobe-substance-sampler"/>
