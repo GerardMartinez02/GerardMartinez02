@@ -51,6 +51,8 @@
 
 <img align="left" alt="C" width="30px" src="https://img.icons8.com/color/344/adobe-premiere-pro--v1.png"/>
 
+<img align="left" alt="C" width="30px" src="https://img.icons8.com/dusk/512/aseprite.png"/>
+
 
 
 <p>&nbsp;</p>
