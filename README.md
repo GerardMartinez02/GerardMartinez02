@@ -1,15 +1,16 @@
 # Hi there, I'm Gerard Martinez 👋
 
-- 🌱 I’m currently studying Videogame Design and Development at CITM(UPC).
+- 🌱 I’m a Video Game Designer and Developer.
 - ✈️ I'm looking to travel around the world.
 - 🕹️ I'm interested in getting an Internship in the video games industry.
 
 
 
 ## Contact me 📫
+[<img align="left" alt="gerardmartinez | Linkedin" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
 [<img align="left" alt="gerardmartinez | Instagram" width="30px" src="https://img.icons8.com/color/344/instagram-new.png" />][instagram]
 [<img align="left" alt="gerardmartinez | Discord" width="30px" src="https://img.icons8.com/color/344/discord-logo.png" />][discord]
-[<img align="left" alt="gerardmartinez | Linkedin" width="30px" src="https://img.icons8.com/color/344/linkedin.png" />][linkedin]
+
 
 
 <br>
